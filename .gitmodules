@@ -1,0 +1,3 @@
+[submodule "mma"]
+	path = mma
+	url = https://github.com/asarigun/mma.git
